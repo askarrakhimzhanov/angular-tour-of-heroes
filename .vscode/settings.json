@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a3ef46e3-c338-471d-a1a4-92bf9e064ead/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ara-angular-heroes-app",
+    "appService.deploySubpath": "dist\\angular-tour-of-heroes"
+}
